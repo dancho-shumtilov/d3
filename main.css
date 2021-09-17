@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#chartWrap {
+    overflow: hidden;
+    position: relative;
+    background-color: #f5f5f5;
+}
+
+.chart-title {
+    color: #222;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.x-axis-month {
+    fill: #222;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.axis-gbp .tick text,
+.axis-usd .tick text,
+.axis-usd .y-axis-rate,
+.axis-gbp .y-axis-rate {
+    fill: #9cbceb;
+    font-size: 0.75rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.axis-usd .tick text,
+.axis-usd .y-axis-rate {
+    fill: #fca268;
+}
+
+.rateBar.rate-buy-gbp {
+    fill: #9cbceb;
+}
+
+.rateBar.rate-buy-usd {
+    fill: #fca268;
+}
+
+/*#region Pie Title*/
+.pie-title {
+    fill: #9cbceb;
+    font-size: 1.25rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*#region Pie Title*/
+
+/*#region Added controls for chart update*/
+.chart-btn-wrap {
+    position: absolute;
+    right: 250px;
+    bottom: 25px;
+}
+
+.chart-btn-wrap a {
+    position: relative;
+    display: inline-block;
+    margin: 0 1.25rem;
+    color: #aaa;
+    font-size: 0.75rem;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.chart-btn-wrap a:focus,
+.chart-btn-wrap a:hover,
+.chart-btn-wrap a:active {
+    color: #777;
+    text-decoration: none;
+}
+
+.chart-btn-wrap a.current-month {
+    color: #222;
+}
+/*#endregion Added controls for chart update*/

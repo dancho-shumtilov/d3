@@ -1,0 +1,439 @@
+exchangeRate = [
+    {
+        "month": "June",
+        "days": [
+            {
+                "date": "6/1/2020",
+                "buyUSD": 1.16,
+                "sellUSD": 1.10,
+                "buyGBP": 0.89,
+                "sellGBP": 0.85
+            },
+            {
+                "date": "6/2/2020",
+                "buyUSD": 1.16,
+                "sellUSD": 1.10,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "6/3/2020",
+                "buyUSD": 1.15,
+                "sellUSD": 1.09,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "6/4/2020",
+                "buyUSD": 1.14,
+                "sellUSD": 1.08,
+                "buyGBP": 0.87,
+                "sellGBP": 0.83
+            },
+            {
+                "date": "6/5/2020",
+                "buyUSD": 1.14,
+                "sellUSD": 1.08,
+                "buyGBP": 0.86,
+                "sellGBP": 0.82
+            },
+            {
+                "date": "6/6/2020",
+                "buyUSD": 1.13,
+                "sellUSD": 1.07,
+                "buyGBP": 0.85,
+                "sellGBP": 0.81
+            },
+            {
+                "date": "6/7/2020",
+                "buyUSD": 1.11,
+                "sellUSD": 1.05,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "6/8/2020",
+                "buyUSD": 1.15,
+                "sellUSD": 1.09,
+                "buyGBP": 0.89,
+                "sellGBP": 0.85
+            },
+            {
+                "date": "6/9/2020",
+                "buyUSD": 1.16,
+                "sellUSD": 1.10,
+                "buyGBP": 0.92,
+                "sellGBP": 0.87
+            },
+            {
+                "date": "6/10/2020",
+                "buyUSD": 1.17,
+                "sellUSD": 1.11,
+                "buyGBP": 0.93,
+                "sellGBP": 0.88
+            },
+            {
+                "date": "6/11/2020",
+                "buyUSD": 1.17,
+                "sellUSD": 1.11,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "6/12/2020",
+                "buyUSD": 1.2,
+                "sellUSD": 1.14,
+                "buyGBP": 0.87,
+                "sellGBP": 0.83
+            },
+            {
+                "date": "6/13/2020",
+                "buyUSD": 1.21,
+                "sellUSD": 1.15,
+                "buyGBP": 0.85,
+                "sellGBP": 0.81
+            },
+            {
+                "date": "6/14/2020",
+                "buyUSD": 1.24,
+                "sellUSD": 1.18,
+                "buyGBP": 0.84,
+                "sellGBP": 0.80
+            },
+            {
+                "date": "6/15/2020",
+                "buyUSD": 1.25,
+                "sellUSD": 1.19,
+                "buyGBP": 0.89,
+                "sellGBP": 0.85
+            },
+            {
+                "date": "6/16/2020",
+                "buyUSD": 1.26,
+                "sellUSD": 1.20,
+                "buyGBP": 0.92,
+                "sellGBP": 0.87
+            },
+            {
+                "date": "6/17/2020",
+                "buyUSD": 1.24,
+                "sellUSD": 1.18,
+                "buyGBP": 0.95,
+                "sellGBP": 0.90
+            },
+            {
+                "date": "6/18/2020",
+                "buyUSD": 1.22,
+                "sellUSD": 1.16,
+                "buyGBP": 0.96,
+                "sellGBP": 0.96
+            },
+            {
+                "date": "6/19/2020",
+                "buyUSD": 1.19,
+                "sellUSD": 1.13,
+                "buyGBP": 0.97,
+                "sellGBP": 0.92
+            },
+            {
+                "date": "6/20/2020",
+                "buyUSD": 1.25,
+                "sellUSD": 1.19,
+                "buyGBP": 0.99,
+                "sellGBP": 0.94
+            },
+            {
+                "date": "6/21/2020",
+                "buyUSD": 1.28,
+                "sellUSD": 1.22,
+                "buyGBP": 0.95,
+                "sellGBP": 0.90
+            },
+            {
+                "date": "6/22/2020",
+                "buyUSD": 1.3,
+                "sellUSD": 1.24,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "6/23/2020",
+                "buyUSD": 1.34,
+                "sellUSD": 1.27,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "6/24/2020",
+                "buyUSD": 1.3,
+                "sellUSD": 1.24,
+                "buyGBP": 0.87,
+                "sellGBP": 0.83
+            },
+            {
+                "date": "6/25/2020",
+                "buyUSD": 1.31,
+                "sellUSD": 1.24,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "6/26/2020",
+                "buyUSD": 1.3,
+                "sellUSD": 1.24,
+                "buyGBP": 0.86,
+                "sellGBP": 0.82
+            },
+            {
+                "date": "6/27/2020",
+                "buyUSD": 1.27,
+                "sellUSD": 1.21,
+                "buyGBP": 0.84,
+                "sellGBP": 0.80
+            },
+            {
+                "date": "6/28/2020",
+                "buyUSD": 1.25,
+                "sellUSD": 1.19,
+                "buyGBP": 0.83,
+                "sellGBP": 0.79
+            },
+            {
+                "date": "6/29/2020",
+                "buyUSD": 1.24,
+                "sellUSD": 1.18,
+                "buyGBP": 0.83,
+                "sellGBP": 0.79
+            },
+            {
+                "date": "6/30/2020",
+                "buyUSD": 1.21,
+                "sellUSD": 1.15,
+                "buyGBP": 0.80,
+                "sellGBP": 0.77
+            }
+        ]
+    },
+    {
+        "month": "July",
+        "days": [
+            {
+                "date": "7/1/2020",
+                "buyUSD": 1.16,
+                "sellUSD": 1.10,
+                "buyGBP": 0.89,
+                "sellGBP": 0.85
+            },
+            {
+                "date": "7/2/2020",
+                "buyUSD": 1.16,
+                "sellUSD": 1.10,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "7/3/2020",
+                "buyUSD": 1.15,
+                "sellUSD": 1.09,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "7/4/2020",
+                "buyUSD": 1.14,
+                "sellUSD": 1.08,
+                "buyGBP": 0.87,
+                "sellGBP": 0.83
+            },
+            {
+                "date": "7/5/2020",
+                "buyUSD": 1.14,
+                "sellUSD": 1.08,
+                "buyGBP": 0.86,
+                "sellGBP": 0.82
+            },
+            {
+                "date": "7/6/2020",
+                "buyUSD": 1.13,
+                "sellUSD": 1.07,
+                "buyGBP": 0.85,
+                "sellGBP": 0.81
+            },
+            {
+                "date": "7/7/2020",
+                "buyUSD": 1.11,
+                "sellUSD": 1.05,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "7/8/2020",
+                "buyUSD": 1.15,
+                "sellUSD": 1.09,
+                "buyGBP": 0.89,
+                "sellGBP": 0.85
+            },
+            {
+                "date": "7/9/2020",
+                "buyUSD": 1.16,
+                "sellUSD": 1.10,
+                "buyGBP": 0.92,
+                "sellGBP": 0.87
+            },
+            {
+                "date": "7/10/2020",
+                "buyUSD": 1.17,
+                "sellUSD": 1.11,
+                "buyGBP": 0.93,
+                "sellGBP": 0.88
+            },
+            {
+                "date": "7/11/2020",
+                "buyUSD": 1.17,
+                "sellUSD": 1.11,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "7/12/2020",
+                "buyUSD": 1.2,
+                "sellUSD": 1.14,
+                "buyGBP": 0.87,
+                "sellGBP": 0.83
+            },
+            {
+                "date": "7/13/2020",
+                "buyUSD": 1.21,
+                "sellUSD": 1.15,
+                "buyGBP": 0.85,
+                "sellGBP": 0.81
+            },
+            {
+                "date": "7/14/2020",
+                "buyUSD": 1.24,
+                "sellUSD": 1.18,
+                "buyGBP": 0.84,
+                "sellGBP": 0.80
+            },
+            {
+                "date": "7/15/2020",
+                "buyUSD": 1.25,
+                "sellUSD": 1.19,
+                "buyGBP": 0.89,
+                "sellGBP": 0.85
+            },
+            {
+                "date": "7/16/2020",
+                "buyUSD": 1.26,
+                "sellUSD": 1.20,
+                "buyGBP": 0.92,
+                "sellGBP": 0.87
+            },
+            {
+                "date": "7/17/2020",
+                "buyUSD": 1.24,
+                "sellUSD": 1.18,
+                "buyGBP": 0.95,
+                "sellGBP": 0.90
+            },
+            {
+                "date": "7/18/2020",
+                "buyUSD": 1.22,
+                "sellUSD": 1.16,
+                "buyGBP": 0.96,
+                "sellGBP": 0.96
+            },
+            {
+                "date": "7/19/2020",
+                "buyUSD": 1.19,
+                "sellUSD": 1.13,
+                "buyGBP": 0.97,
+                "sellGBP": 0.92
+            },
+            {
+                "date": "7/20/2020",
+                "buyUSD": 1.25,
+                "sellUSD": 1.19,
+                "buyGBP": 0.99,
+                "sellGBP": 0.94
+            },
+            {
+                "date": "7/21/2020",
+                "buyUSD": 1.28,
+                "sellUSD": 1.22,
+                "buyGBP": 0.95,
+                "sellGBP": 0.90
+            },
+            {
+                "date": "7/22/2020",
+                "buyUSD": 1.3,
+                "sellUSD": 1.24,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "7/23/2020",
+                "buyUSD": 1.34,
+                "sellUSD": 1.27,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "7/24/2020",
+                "buyUSD": 1.3,
+                "sellUSD": 1.24,
+                "buyGBP": 0.87,
+                "sellGBP": 0.83
+            },
+            {
+                "date": "7/25/2020",
+                "buyUSD": 1.31,
+                "sellUSD": 1.24,
+                "buyGBP": 0.88,
+                "sellGBP": 0.84
+            },
+            {
+                "date": "7/26/2020",
+                "buyUSD": 1.3,
+                "sellUSD": 1.24,
+                "buyGBP": 0.86,
+                "sellGBP": 0.82
+            },
+            {
+                "date": "7/27/2020",
+                "buyUSD": 1.27,
+                "sellUSD": 1.21,
+                "buyGBP": 0.84,
+                "sellGBP": 0.80
+            },
+            {
+                "date": "7/28/2020",
+                "buyUSD": 1.25,
+                "sellUSD": 1.19,
+                "buyGBP": 0.83,
+                "sellGBP": 0.79
+            },
+            {
+                "date": "7/29/2020",
+                "buyUSD": 1.24,
+                "sellUSD": 1.18,
+                "buyGBP": 0.83,
+                "sellGBP": 0.79
+            },
+            {
+                "date": "7/30/2020",
+                "buyUSD": 1.21,
+                "sellUSD": 1.15,
+                "buyGBP": 0.82,
+                "sellGBP": 0.78
+            },
+            {
+                "date": "7/31/2020",
+                "buyUSD": 1.24,
+                "sellUSD": 1.18,
+                "buyGBP": 0.83,
+                "sellGBP": 0.79
+            }
+        ]
+    }
+]
